@@ -1,0 +1,1 @@
+A simple example of horizontal scroll with ScrollTrigger and GSAP
